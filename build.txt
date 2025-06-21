@@ -1,3 +1,4 @@
 displayName = Weaponology
 author = ENNWAY &amp; TYESKI
 version = 0.1
+modReferences = WayLib
